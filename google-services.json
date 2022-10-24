@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "222258670494",
+    "project_id": "mosazzi",
+    "storage_bucket": "mosazzi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:222258670494:android:c38b7243bcfafa4de6048f",
+        "android_client_info": {
+          "package_name": "mosazzi.expo.client"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "222258670494-a50097129hmj17d07ogae6q96c80qa42.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4TFmv8zExdMZu6D8VRfEWgxqSjR46FLU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "222258670494-a50097129hmj17d07ogae6q96c80qa42.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "222258670494-f2pa5d36md2uk3g223ftjcjp3l0sthv2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "mosazzi.expo.client"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
